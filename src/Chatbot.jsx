@@ -1,5 +1,5 @@
 // Chatbot.js
-import React, { useState } from "react";
+import { useState } from "react";
 
 const Chatbot = () => {
     const [messages, setMessages] = useState([
